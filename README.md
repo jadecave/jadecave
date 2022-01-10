@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey 👋
+I'm a Web Development Student who's passionate about Frontend Design. Former UX Designer and Mentor in MedTech and Education. Sparked by ceating useful experiences for customers. Musicboard Berlin Sponsored Electronic Musician.
 
-<!--
-**jadecave/jadecave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:sun_with_face: I’m currently learning: JavaScript and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:floppy_disk: I’m looking to collaborate on: games, music and medical projects.
+
+### 📫 Get in touch with me @ 
+ https://sistercircuitlab.com
+ 
+ https://linkedin.com/in/jadejohnsonux
+
+
